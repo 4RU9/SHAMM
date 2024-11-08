@@ -1,0 +1,2 @@
+import SHAMM
+SHAMM.SHAMM()
